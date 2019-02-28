@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class eyeah {
@@ -7,6 +6,6 @@ public class eyeah {
         System.out.println("Where the frick my sauce lmao");
         String yeehaw = kbd.next();
         System.out.println("The sauce is located at: " + yeehaw);
-
+        // Yo if you put alaska imma be kinda relieved actually
     }
 }
